@@ -1,0 +1,11 @@
+BellosatoDownloader Fast
+Copyright (c) 2025 BellosatoTech. All rights reserved.
+
+This software application ("BellosatoDownloader Fast") is provided free of charge for personal use.
+The source code of this application is proprietary and is not open source.
+It is strictly forbidden to decompile, disassemble, reverse engineer, modify, reproduce, distribute, or use the source code of this application, in whole or in part, without the express written authorization of BellosatoTech.
+
+Future Plans: Please note that we plan to release the source code under an open-source license for non-commercial use once the application is more feature-complete in a future major version. Stay tuned!
+
+The application is provided "AS IS", without warranty of any kind, express or implied.
+In no event shall BellosatoTech be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.
